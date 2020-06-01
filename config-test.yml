@@ -1,2 +1,1 @@
-server:
-  port: 1111
+info: "this is test,and current version=1"
