@@ -1,2 +1,1 @@
-server:
-  port: 8888
+info: "this is dev ,and current verison = 1"
