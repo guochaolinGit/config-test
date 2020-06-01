@@ -1,2 +1,1 @@
-server:
-  port: 9999
+info: "this is prod , and current verison=1"
